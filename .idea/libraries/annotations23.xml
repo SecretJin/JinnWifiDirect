@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="annotations2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JinWifiDirect/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/annotations.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

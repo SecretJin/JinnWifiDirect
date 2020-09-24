@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JinWifiDirect/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_b4e44afd41f142d626e4905ed1cfcf927d06a7e1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JinWifiDirect/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.3.0_24714db545eb3765ce591583d3584c3bcdbd703b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JinWifiDirect/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_6d6e08efeae29c48ab8f9a35c942d82a6270e3c4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JinWifiDirect/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_3eb9660d776065cfad23cfe8652e188cd33c13c3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JinWifiDirect/app/build/intermediates/pre-dexed/debug/instant-run_e15633fba4b458cac9f0e38b1ec203e5b12ae2b2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JinWifiDirect/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_69bc52fc2386c6d994d350150cfb067f454aa394.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JinWifiDirect/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_444ef1a47640316736a7d26d0679c7e21a682b98.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JinWifiDirect/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.3.0_50767894f166c76a53cb754b917a43730123e922.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JinWifiDirect/app/build/intermediates/pre-dexed/debug/main_9b622c96f05ae2f87fb869932dfbc8d40b0004f5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JinWifiDirect/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_49370155ccef0ad30da4ec618b5b56121053c769.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JinWifiDirect/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_92a2c063a0b4f45e85629e7b5b1eba5d1fa3a6eb.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

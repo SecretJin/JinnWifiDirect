@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JinWifiDirect</string>
+    <string name="title_activity_wifi_direct_broadcast_receiver">WifiDirectBroadcastReceiver
+    </string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_wifi_main">WifiMainActivity</string>
+</resources>
